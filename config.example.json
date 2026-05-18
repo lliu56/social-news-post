@@ -1,0 +1,10 @@
+{
+  "cta_url": "",
+  "cta_line": "",
+  "news_source_url": "https://www.deepai.vc/signals",
+  "pinterest_board_id": "",
+  "platforms": ["linkedin"],
+  "image_size": "1536x1024",
+  "image_quality": "medium",
+  "supabase_bucket": "social-media"
+}
