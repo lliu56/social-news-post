@@ -2,7 +2,7 @@
 
 > **500K LinkedIn impressions in 2 months. I didn't post a single one.**
 >
-> [![Watch the 60-second story on YouTube](./thumbnail.png)](https://youtube.com/shorts/eI_V83pR6cI)
+> [![Watch the 60-second story on YouTube](./thumb.png)](https://youtube.com/shorts/eI_V83pR6cI)
 >
 > ↑ Click to watch on YouTube
 
